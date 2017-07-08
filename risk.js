@@ -15,7 +15,7 @@ for (var i = 0; i < countries.length; i++) {
 
 //Program
 
-//Spelare 1 
+//Spelare 1 test new commit 
 
 for (var i = 0; i < antalLander; i++) {
     //Slumptal mellan 0 och contries.length
